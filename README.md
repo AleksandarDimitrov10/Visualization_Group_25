@@ -2,6 +2,8 @@
 
 <img width="1600" height="511" alt="image" src="https://github.com/user-attachments/assets/fb3eca53-f9a3-485a-b5bf-2d88917b6a7d" />
 
+
+
 Interactive hospital operations dashboard built with Python, Dash, and Plotly for exploring hospital service performance across departments, weeks, staffing levels, patient satisfaction, and acceptance rates.
 
 ## Overview
