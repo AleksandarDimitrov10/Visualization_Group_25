@@ -44,8 +44,12 @@ The project was developed collaboratively, with implementation and report contri
 
 ## How to Run
 
+## Run Locally
+
 ```bash
 git clone https://github.com/AleksandarDimitrov10/Visualization_Group_25.git
 cd Visualization_Group_25
+python -m venv .venv
+.venv\Scripts\activate
 pip install -r requirements.txt
 python app.py
