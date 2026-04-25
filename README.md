@@ -10,6 +10,19 @@ Interactive hospital operations dashboard built with Python, Dash, and Plotly fo
 
 This project focuses on visualizing hospital operations data using coordinated interactive views. The dashboard allows users to compare departments, inspect weekly trends, explore multivariate relationships, and analyze how staffing configurations may affect service performance.
 
+## Project Status
+
+This project was developed as part of the JBI100 Visualization course at TU/e. The focus was on building an interactive dashboard for exploring hospital operations data through coordinated visualizations.
+
+## My Contribution
+
+My main contribution was the implementation of the dashboard in Python using Dash and Plotly. I worked on translating the visualization design into interactive dashboard components, connecting the visual views to the underlying data, and supporting the implementation of user interactions.
+
+I also contributed to the written report by applying visualization theory from the course to justify our design choices. This included reasoning about interaction techniques, visual encoding choices, coordinated views, and how the dashboard supports exploratory analysis of hospital operations data.
+
+The project was developed collaboratively, with implementation and report contributions discussed and refined together with group members.
+
+
 ## Features
 
 - Interactive dashboard built with Dash and Plotly
